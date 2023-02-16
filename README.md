@@ -14,3 +14,6 @@ Avbrottsimplementeringen testas via ett program, där en lysdiod togglas vid ned
 Filen "embedded_computer_system_part6_start_code.zip" innehåller startkoden med färdig programkod för test av avbrottsimplementeringen. Jämfört med föregående del så genomför ALU:n subtraktion via addition med 2-komplement (så som sker i hårdvaran) i stället för en regelrätt addition.
 
 Samtliga .c- och .h-filer utgörs av processorn med färdig interrupt-implementering.
+
+Filen "Lektionsuppgift 2023-02-15 - Pipeline.pdf" innehåller uppgifter samt lösningar för den lektionsuppgift 
+innefattande pipelining som genomfördes i början av lektionen.
